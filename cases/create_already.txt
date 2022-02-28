@@ -1,0 +1,10 @@
+create user1 user1 500
+create user2 user2 1000
+create user1 alakazam 3000
+quit
+*
+Created user user1
+Created user user2
+Failed to create user
+Goodbye
+*

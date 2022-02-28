@@ -1,0 +1,10 @@
+create user1 user1 100000
+login user1 user1
+reservations
+quit
+*
+Created user user1
+Logged in as user1
+No reservations found
+Goodbye
+*
